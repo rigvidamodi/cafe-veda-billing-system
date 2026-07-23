@@ -19,9 +19,7 @@ The program allows customers to:
 
 ---
 
-# 🍽️ Menu
 
-![Menu](cafe-veda-menu.png)
 
 ---
 
@@ -45,27 +43,9 @@ The program allows customers to:
 
 ---
 
-# ▶️ How to Run
 
-1. Clone this repository
 
-```
-git clone https://github.com/yourusername/Cafe-Veda.git
-```
 
-2. Open the project folder.
-
-3. Run
-
-```
-python cafe_veda.py
-```
-
----
-
-# 📸 Output
-
-(Add your output screenshot here)
 
 ---
 
